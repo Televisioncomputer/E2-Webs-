@@ -1,14 +1,2 @@
-box
-boxout
-rbox
-rboxout
-cir
-cirout
-tri
-triout
-button
-text
-textlout
-ptoc
-if 
-var
+box 1 100 100 20 20
+
