@@ -2,5 +2,13 @@ box
 boxout
 rbox
 rboxout
+cir
+cirout
+tri
+triout
+button
 text
 textlout
+ptoc
+if 
+var
