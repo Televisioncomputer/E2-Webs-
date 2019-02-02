@@ -1,0 +1,3 @@
+text 1 "Hello There" 200 250
+button 1 2
+print "Shrek here"
